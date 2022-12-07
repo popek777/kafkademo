@@ -17,6 +17,9 @@ https://developer.confluent.io/quickstart/kafka-docker/?build=apps#5-read-messag
 # build kafkademo app
 ./build.sh
 
-# run denmo app producing messages (taken completly from official example https://github.com/edenhill/librdkafka/blob/master/examples/producer.cpp)
+# run denmo app producing messages
+ 
+ demo app based on official example https://github.com/edenhill/librdkafka/blob/master/examples/producer.cpp
+ 
 ./build/bin/kafkademo localhost:9092 quickstart
 
