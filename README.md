@@ -1,6 +1,6 @@
 # kafkademo
 
-kafka demo
+kafka demo - quick start to produce/consume messages use case
 
 # install kafka docker image
 https://developer.confluent.io/quickstart/kafka-docker/?build=apps#5-read-messages-from-the-topic
@@ -32,3 +32,9 @@ in consumer mode to consume messages:
  
 ./build/bin/kafkademo localhost:9092 quickstart
 
+
+## FAQ
+
+# Where to start from here?
+
+  https://kafka.apache.org/082/documentation.html
