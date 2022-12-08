@@ -35,6 +35,6 @@ in consumer mode to consume messages:
 
 # FAQ
 
-## Where to start from here?
+## Where can I find high-level design information about kafka?
 
   https://kafka.apache.org/082/documentation.html
