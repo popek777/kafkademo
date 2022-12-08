@@ -33,8 +33,8 @@ in consumer mode to consume messages:
 ./build/bin/kafkademo localhost:9092 quickstart
 
 
-## FAQ
+# FAQ
 
-# Where to start from here?
+## Where to start from here?
 
   https://kafka.apache.org/082/documentation.html
