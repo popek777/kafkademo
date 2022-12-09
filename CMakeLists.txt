@@ -11,3 +11,8 @@ target_link_libraries(kafkademo ${CONAN_LIBS})
 add_executable(kafkafulldemo
   kafkafulldemo.cpp)
 target_link_libraries(kafkafulldemo ${CONAN_LIBS})
+
+add_executable(kafkacppdemo
+  kafkacppdemo.cpp)
+target_link_libraries(kafkacppdemo ${CONAN_LIBS})
+
