@@ -21,7 +21,7 @@ or
 run full demo app (based on https://github.com/edenhill/librdkafka/blob/master/examples/rdkafka_example.cpp)
 in consumer mode to consume messages:
 
-./build/bin/kafkafulldemo -C -t quickstart -b localhost -f ccb -p 
+./build/bin/kafkafulldemo -C -t quickstart -b localhost -f ccb -p 0
 
 # build kafkademo app
 ./build.sh
